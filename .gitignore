@@ -1,0 +1,12 @@
+# IDE
+.idea
+
+# Generated
+node_modules
+reports
+screenshots/diffs
+screenshots/results
+*.log
+package-lock.json
+yarn.lock
+.vcmrc
